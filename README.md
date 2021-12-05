@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nellfs</h1>
+<h1 align="center">👋 I'm nellfs</h1>
 <h3 align="center">and i make games!</h3>
 
 <h3 align="left">I'm here too:</h3>
