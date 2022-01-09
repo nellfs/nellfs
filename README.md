@@ -1,10 +1,27 @@
-<h1 align="center">👋 I'm nellfs</h1>
-<h3 align="center">and i make games!</h3>
+<h1 align="center">👋 Oi! Eu sou nellfs</h1>
+<h3 align="center">Desenvolvedor e apaixonado por tecnologia!</h3>
 <div align="center">
   <a href="https://github.com/nellfs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nellfs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellfs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<h3 align="left">Current working languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/260px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a> 
-<a href="https://rust-lang.org/" target="_blank"> <img src="https://rustacean.net/assets/cuddlyferris.svg" alt="rust" width="40" height="40"/> </a> </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellfs&layout=compact&langs_count=7&theme=dracula"/> </a>
+
+<div style="display: inline_block"><br>
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="43" height="43" align="center"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="43" height="43" align="center"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" align="center"/>
+  <img src="https://rustacean.net/assets/cuddlyferris.svg" width="50" height="50" align="center"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40" height="40" align="center"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/260px-Lua-Logo.svg.png" width="45" height="45" align="center"/>
+</div><br>
+  
+## 
+  <h3 align="center">Fale comigo! 😊</h3>
+
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/heron-x-106b10224/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+   <a target="_blank" href="mailto:heronlopes123@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+</p>
+<br>
