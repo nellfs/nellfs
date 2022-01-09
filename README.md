@@ -19,7 +19,7 @@
   <h3 align="center">Fale comigo! 😊</h3>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/heron-x-106b10224/" alt="Linkedin">
+  <a target="_blank" href="https://www.linkedin.com/in/heron-x/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
    <a target="_blank" href="mailto:heronlopes123@gmail.com" alt="Gmail">
