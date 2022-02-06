@@ -10,7 +10,6 @@
   <a href="#"><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="43" height="43" align="center"/></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="43" height="43" align="center"/></a>
   <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" align="center"/></a>
-  <a href="https://www.rust-lang.org/"><img src="https://rustacean.net/assets/cuddlyferris.svg" width="50" height="50" align="center"/></a>
   <a href="https://www.python.org/about/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40" height="40" align="center"/></a>
   <a href="https://www.lua.org/about.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/260px-Lua-Logo.svg.png" width="45" height="45" align="center"/></a>
 </div>
