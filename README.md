@@ -2,8 +2,8 @@
 <h3 align="center">Desenvolvedor e apaixonado por tecnologia!</h3>
 <div align="center">
   <a href="https://github.com/nellfs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nellfs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellfs&layout=compact&langs_count=7&theme=vision-friendly-dark"/> </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nellfs&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellfs&layout=compact&langs_count=7&theme=gruvbox"/> </a>
 
 ⭐🚀📖
 <div style="display: inline_block">
