@@ -26,3 +26,12 @@ indent = { tab-width = 2, unit = "  " }
 [[grammar]]
 name = "tsx"
 source = { git = "https://github.com/tree-sitter/tree-sitter-typescript", rev = "3e897ea5925f037cfae2e551f8e6b12eec2a201a", subpath = "tsx" }
+
+[[language]]
+name = "prisma"
+scope = "source.prisma"
+injection-regex = "^prisma$"
+file-types = ["prisma"]
+comment-token = "#"
+language-server = { command = "prisma-language-server", args = ["--stdio"]}
+indent = { tab-width = 2, unit = "  " }
