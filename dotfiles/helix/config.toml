@@ -21,3 +21,6 @@ separator = "|"
 
 [editor.lsp]
 display-messages = true 
+
+[keys.normal]
+C-y = ":w"
