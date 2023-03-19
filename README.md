@@ -1,5 +1,5 @@
 <h1 align="center">👋 Oi! Eu sou Heron</h1>
-<h3 align="center">Desenvolvedor e apaixonado por tecnologia!</h3>
+<h3 align="center">Desenvolvedor Web</h3>
 <div align="center">
   <a href="https://github.com/nellfs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nellfs&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
