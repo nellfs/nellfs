@@ -1,1 +1,1 @@
-I like some specific types of insects and Go as well
+Contributing to [Vanilla OS](https://github.com/Vanilla-OS)
