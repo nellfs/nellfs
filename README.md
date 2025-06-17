@@ -1,1 +1,1 @@
-Go, Typescript, Open Source
+Go Open Source
