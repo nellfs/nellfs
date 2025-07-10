@@ -27,6 +27,10 @@
             "commands": [
                 "workbench.action.closeActiveEditor"
             ]
+        },
+        {
+            "before": ["[", "d"],
+            "commands": ["editor.action.marker.next"]
         }
     ],
     "vim.normalModeKeyBindingsNonRecursive": [
